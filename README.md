@@ -68,6 +68,8 @@ law-talk-chatbot/
 └── README.md                # Project description
 ```
 
+
+
 ---
 
 ## 📦 **Requirements**
@@ -91,8 +93,30 @@ replicate
 docx2txt
 gtts
 ```
+Here's a section for your README file, focusing on the user interface and demo image:
+
+---
+
+## 🖥️ **User Interface**
+
+The **Law Talk ChatBot** features an interactive and user-friendly interface built with **Streamlit**. Once the application is launched, users are presented with a clean layout where they can:
+
+![image](https://github.com/user-attachments/assets/3c3ebf60-6cbb-499e-b3b4-b10bbc5cf53e)
 
 
+- **Upload Files**: The sidebar allows users to upload legal documents like PDFs, DOCX, and text files.
+- **Ask Questions**: The main interface provides a text input box to ask questions based on the uploaded documents.
+- **View Chat History**: The chatbot's responses are displayed in a conversational format, making it easy to follow along.
+- **Text-to-Speech**: Hear the chatbot's responses in audio form.
+
+### **Demo**
+
+Here is a preview of the **Law Talk ChatBot** interface with prefered temperature parameter range :
+
+![image](https://github.com/user-attachments/assets/f65401fa-5a5e-4a49-b3b3-fb4f177269a2)
+
+
+---
 
 ## 🤝 **Acknowledgments**
 
