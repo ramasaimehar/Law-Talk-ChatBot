@@ -93,10 +93,6 @@ replicate
 docx2txt
 gtts
 ```
-Here's a section for your README file, focusing on the user interface and demo image:
-
----
-
 ## 🖥️ **User Interface**
 
 The **Law Talk ChatBot** features an interactive and user-friendly interface built with **Streamlit**. Once the application is launched, users are presented with a clean layout where they can:
@@ -111,9 +107,15 @@ The **Law Talk ChatBot** features an interactive and user-friendly interface bui
 
 ### **Demo**
 
-Here is a preview of the **Law Talk ChatBot** interface with prefered temperature parameter range :
+Here is a preview of the **Law Talk ChatBot** interface with prefered temperature parameter range difference:
+
+Chatbot giving answers to related query asked by the user at temperature 0.5 – 1.0
 
 ![image](https://github.com/user-attachments/assets/f65401fa-5a5e-4a49-b3b3-fb4f177269a2)
+
+Chatbot giving answers to related query asked by the user at temperature  0 - 0.15
+
+![image](https://github.com/user-attachments/assets/083b222c-c5e0-471e-ad37-90155b3561d3)
 
 
 ---
